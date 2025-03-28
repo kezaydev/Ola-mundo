@@ -45,3 +45,28 @@ _ITÁLICO_
 
 [ACESSE MEU GITHUB](https://github.com/kezaydev)
 
+***
+
+NUM | NOME | NOTA
+---|---|---
+1 | JOÃO | 9,6
+2 | JOSÉ | 7,0
+3 | JÚLIA | 10,0
+
+TERMINOU A TABELA
+
+***
+Não entendo muito bem o elemento `document.getElementByld()` da linguagem JavaScript
+
+***
+
+Olha meu programa em python
+
+```
+num = int(input('Digite um valor: ')
+if num %2==0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR')
+
+```
